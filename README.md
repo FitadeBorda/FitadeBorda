@@ -1,25 +1,25 @@
 # 🚀 Allparts - Fitas de Borda
 
-Soluções em fitas de borda e tecnologia para gestão de processos industriais.
+Soluções em fitas de borda.
 
 ---
 
 ## 📦 Projetos
 
-### 🏭 Sistema de Produção
-Sistema responsável pelo gerenciamento e acompanhamento da produção industrial.
-
-### ✅ Sistema de Inspeções
+### ✅ Sistema de Inspeções e Checklists (SIA)
 Plataforma para realização e controle de inspeções de qualidade.
 
-### 👥 Portal do Colaborador
-Ambiente para acesso a informações, documentos e processos internos.
+### ✅ Site e Sistema de RNC
+Comtempla todo o site, area de trabalhe conosco e sistema de RNC.
 
-### 📊 Dashboard Gerencial
-Painéis e indicadores para apoio à tomada de decisão.
+### ✅ SMAB
+Sistema de Metas Alcançadas Brascem.
 
-### 🤖 Automações
-Ferramentas e integrações para automatização de processos operacionais.
+### ✅ Sistema de Apontamento Web
+Sistema de Apontamento de produção para a produção.
+
+### ✅ Allparts Control
+Sistema de Controle visitantes, colaboradores e acessos em tempo real.
 
 ---
 
