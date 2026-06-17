@@ -15,6 +15,9 @@ Comtempla todo o site, area de trabalhe conosco e sistema de RNC.
 ### ✅ SMAB
 Sistema de Metas Alcançadas Brascem.
 
+### ✅ Nutrigestor
+Sistema de gestão e pedidos para o restaurante
+
 ### ✅ Sistema de Apontamento Web
 Sistema de Apontamento de produção para a produção.
 
