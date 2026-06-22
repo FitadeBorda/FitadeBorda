@@ -24,6 +24,9 @@ Sistema de Apontamento de produção para a produção.
 ### ✅ Allparts Control
 Sistema de Controle visitantes, colaboradores e acessos em tempo real.
 
+### ✅ Allprint
+Sistema de Controle de impressoras.
+
 ---
 
 ## 📫 Contato
