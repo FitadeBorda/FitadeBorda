@@ -27,6 +27,9 @@ Sistema de Controle visitantes, colaboradores e acessos em tempo real.
 ### ✅ Allprint
 Sistema de Controle de impressoras.
 
+### ✅ Sistema de assinatura de email
+Sistema que gera assiantura de email e altera o logo e banner.
+
 ---
 
 ## 📫 Contato
