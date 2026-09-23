@@ -34,4 +34,4 @@ Sistema que gera assiantura de email e altera o logo e banner.
 
 ## 📫 Contato
 
-🌐 Site: [https://allparts.com.br](https://fitadeborda.com.br/)
+🌐 Site: [https://fitadeborda.com.br](https://fitadeborda.com.br/)
